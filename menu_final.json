@@ -11,7 +11,7 @@
           "description": "شريحتان من لحم البقر مع صلصة خاصة وجبنة وخس وبصل ومخلل",
           "price": 25.5,
           "calories": 550,
-          "image": "png-transparent-mcdonald-s-big-mac-fast-food-hamburger-eating-big-mac-food-cheeseburger-american-food-thumbnail.png"
+          "image": "https://raw.githubusercontent.com/Tarek-goda/API-menu/master/png-transparent-mcdonald-s-big-mac-fast-food-hamburger-eating-big-mac-food-cheeseburger-american-food-thumbnail.png"
         },
         {
           "id": 2,
@@ -19,7 +19,7 @@
           "description": "قطع دجاج مقرمشة مع صلصة الباربكيو",
           "price": 18.0,
           "calories": 280,
-          "image": "mcdonalds-Chicken-McNuggets-6-pieces-2_1-3-product-tile-desktop.jpeg"
+          "image": "https://raw.githubusercontent.com/Tarek-goda/API-menu/master/mcdonalds-Chicken-McNuggets-6-pieces-2_1-3-product-tile-desktop.jpeg"
         }
       ]
     },
@@ -32,7 +32,7 @@
           "description": "قطع دجاج مقرمشة مع خس وصلصة مايونيز",
           "price": 15.75,
           "calories": 350,
-          "image": "McChicken.jpeg"
+          "image": "https://raw.githubusercontent.com/Tarek-goda/API-menu/master/McChicken.jpeg"
         },
         {
           "id": 4,
@@ -40,7 +40,7 @@
           "description": "شريحة لحم مع جبنة أمريكية وبصل ومخلل",
           "price": 10.5,
           "calories": 300,
-          "image": "Cheeseburger.jpeg"
+          "image": "https://raw.githubusercontent.com/Tarek-goda/API-menu/master/Cheeseburger.jpeg"
         }
       ]
     },
@@ -53,7 +53,7 @@
           "description": "مشروب غازي منعش",
           "price": 8.0,
           "calories": 140,
-          "image": "V-cola.png"
+          "image": "https://raw.githubusercontent.com/Tarek-goda/API-menu/master/V-cola.png"
         },
         {
           "id": 6,
@@ -61,7 +61,7 @@
           "description": "مشروب غازي بنكهة البرتقال",
           "price": 8.0,
           "calories": 160,
-          "image": "fantaorange.jpg"
+          "image": "https://raw.githubusercontent.com/Tarek-goda/API-menu/master/fantaorange.jpg"
         }
       ]
     },
@@ -74,7 +74,7 @@
           "description": "فطيرة التفاح المقرمشة",
           "price": 12.0,
           "calories": 240,
-          "image": "applepie.jpeg"
+          "image": "https://raw.githubusercontent.com/Tarek-goda/API-menu/master/applepie.jpeg"
         },
         {
           "id": 8,
@@ -82,7 +82,7 @@
           "description": "آيس كريم مع قطع أوريو",
           "price": 14.5,
           "calories": 320,
-          "image": "McFlurryoreo.jpg"
+          "image": "https://raw.githubusercontent.com/Tarek-goda/API-menu/master/McFlurryoreo.jpg"
         }
       ]
     }
