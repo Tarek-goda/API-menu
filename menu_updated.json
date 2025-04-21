@@ -9,17 +9,17 @@
           "id": 1,
           "name": "Big Mac",
           "description": "شريحتان من لحم البقر مع صلصة خاصة وجبنة وخس وبصل ومخلل",
-          "price": 25.50,
+          "price": 25.5,
           "calories": 550,
-          "image": "https://example.com/big-mac.jpg"
+          "image": "png-transparent-mcdonald-s-big-mac-fast-food-hamburger-eating-big-mac-food-cheeseburger-american-food-thumbnail.png"
         },
         {
           "id": 2,
           "name": "Chicken McNuggets (6 Pcs)",
           "description": "قطع دجاج مقرمشة مع صلصة الباربكيو",
-          "price": 18.00,
+          "price": 18.0,
           "calories": 280,
-          "image": "https://example.com/mcnuggets.jpg"
+          "image": "mcdonalds-Chicken-McNuggets-6-pieces-2_1-3-product-tile-desktop.jpeg"
         }
       ]
     },
@@ -32,15 +32,15 @@
           "description": "قطع دجاج مقرمشة مع خس وصلصة مايونيز",
           "price": 15.75,
           "calories": 350,
-          "image": "https://example.com/mcchicken.jpg"
+          "image": "McChicken.jpeg"
         },
         {
           "id": 4,
           "name": "Cheeseburger",
           "description": "شريحة لحم مع جبنة أمريكية وبصل ومخلل",
-          "price": 10.50,
+          "price": 10.5,
           "calories": 300,
-          "image": "https://example.com/cheeseburger.jpg"
+          "image": "Cheeseburger.jpeg"
         }
       ]
     },
@@ -51,17 +51,17 @@
           "id": 5,
           "name": "Coca-Cola",
           "description": "مشروب غازي منعش",
-          "price": 8.00,
+          "price": 8.0,
           "calories": 140,
-          "image": "https://example.com/coca-cola.jpg"
+          "image": "V-cola.png"
         },
         {
           "id": 6,
           "name": "Fanta Orange",
           "description": "مشروب غازي بنكهة البرتقال",
-          "price": 8.00,
+          "price": 8.0,
           "calories": 160,
-          "image": "https://example.com/fanta.jpg"
+          "image": "fantaorange.jpg"
         }
       ]
     },
@@ -72,17 +72,17 @@
           "id": 7,
           "name": "Apple Pie",
           "description": "فطيرة التفاح المقرمشة",
-          "price": 12.00,
+          "price": 12.0,
           "calories": 240,
-          "image": "https://example.com/apple-pie.jpg"
+          "image": "applepie.jpeg"
         },
         {
           "id": 8,
           "name": "McFlurry Oreo",
           "description": "آيس كريم مع قطع أوريو",
-          "price": 14.50,
+          "price": 14.5,
           "calories": 320,
-          "image": "https://example.com/mcflurry.jpg"
+          "image": "McFlurryoreo.jpg"
         }
       ]
     }
